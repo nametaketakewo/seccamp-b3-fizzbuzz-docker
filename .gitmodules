@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = git://github.com/nametaketakewo/seccamp-b3-fizzbuzz-server.git
